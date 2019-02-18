@@ -1,4 +1,7 @@
 python_AVNetworks.ipynb
 .ipynb_checkpoints
+__pycache__/tokens.cpython-37.pyc
+tokens.py
+.DS_Store
 
 
